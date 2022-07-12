@@ -1,0 +1,2 @@
+# StaticNoteTakingApp
+Created with CodeSandbox
